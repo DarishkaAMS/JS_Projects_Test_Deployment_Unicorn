@@ -1,0 +1,17 @@
+{
+  "product": "uu_cat_maing01",
+  "version": "0.1.0-alpha.1",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "ues:UCL-BT:UDVH_TU",
+      "appDeploymentUri": null
+    }
+  },
+  "uu_cat_maing01-hi": {},
+  "uu_cat_maing01-server": {}
+}
